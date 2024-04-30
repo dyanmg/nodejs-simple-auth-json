@@ -1,0 +1,22 @@
+{
+  "name": "infantcare",
+  "version": "1.0.0",
+  "description": "An infant care example API.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "keywords": [
+    "infant",
+    "care"
+  ],
+  "author": "dyanmg",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
